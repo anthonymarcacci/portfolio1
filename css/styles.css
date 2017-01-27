@@ -1,3 +1,5 @@
-img {
-  float: right
-}
+body {
+  font-style: normal;
+  font-family:serif;
+  background-color: black;
+  background-image: image{images/background.jpg}

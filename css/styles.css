@@ -4,6 +4,6 @@ body {
   background-color: black;
   text-align: center;
 
-h1 {
-  color: red;
+.sidebar {
+  float: right;
 }

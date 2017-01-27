@@ -3,7 +3,13 @@ body {
   font-family:serif;
   background-color: black;
   text-align: center;
+}
 
-.sidebar {
-  float: right;
+  .important {
+    color: darkred;
+    font-weight: bold;
+  }
+
+h1{
+  color: red;
 }

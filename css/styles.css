@@ -5,11 +5,23 @@ body {
   text-align: center;
 }
 
-  .important {
+.important {
     color: darkred;
     font-weight: bold;
   }
 
-h1{
+h1 {
   color: red;
+}
+
+h3 {
+  font-weight: lighter
+}
+
+a {
+  color: blue;
+}
+
+.span {
+  color: green;
 }

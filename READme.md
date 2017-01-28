@@ -17,8 +17,7 @@ It's a website. There are no real setup instructions. Just click the file and op
 https://anthonymarcacci.github.io/portfolio1/
 
 #Known Bugs
-
-No known bugs but I'm sure there's a million things wrong with it.
+I can't get my pictures to load on GHpages but they load right in the normal browser and in github.
 
 #Support and contact details
 

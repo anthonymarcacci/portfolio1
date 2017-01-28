@@ -28,7 +28,11 @@ a {
 
 .box {
   margin: 12px;
-  border: 2px solid red;
   padding: 4px;
+  background-color: lightyellow;
+  float: right;
+}
+
+.jumbotron {
   background-color: lightyellow;
 }

@@ -6,7 +6,7 @@ By Anthony Marcacci
 
 Description
 
-_{I made a fake portfolio site for school using html, css and bootstrap. I saved it on github.
+I made a fake portfolio site for school using html, css and bootstrap. I saved it on github.
 
 Setup/Installation Requirements
 
